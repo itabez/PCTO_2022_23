@@ -15,9 +15,13 @@ I dati pubblici del sistema nazionale di istruzione e formazione
 
 
 ## ![Comune di Milano](/assets/images/logo_comune_milano.png) Open Data Comune di Milano
-I dati sulla tua città messi a disposizione dal Comune
+I dati sulla città di Milano messi a disposizione dal Comune
 > [Dataset](https://dati.comune.milano.it/)
 
+
+## ![Comune di Firenze](/assets/images/logo_comune_milano.png) Open Data Comune di Firenze
+I dati sulla città di Firenze messi a disposizione dal Comune
+> [Dataset](https://opendata.comune.fi.it/)
 
 
 ## 🦠 Dati COVID-19 Italia
