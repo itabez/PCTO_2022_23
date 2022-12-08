@@ -142,3 +142,7 @@ I personaggi e le battaglie della serie Game of Thrones
 
 Personaggi e incantesimi dei film
 > [Dataset](https://www.kaggle.com/maricinnamon/harry-potter-movies-dataset)
+
+## Avesome Public Dataset
+Moltissime basi dati continuamente aggiornate
+> [Dataset](https://github.com/awesomedata/awesome-public-datasets)
