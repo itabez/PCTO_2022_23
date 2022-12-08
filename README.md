@@ -19,7 +19,7 @@ I dati sulla città di Milano messi a disposizione dal Comune
 > [Dataset](https://dati.comune.milano.it/)
 
 
-## ![Comune di Firenze](/assets/images/logo_comune_milano.png) Open Data Comune di Firenze
+## ![Comune di Firenze](/assets/images/giglio-rosso.png) Open Data Comune di Firenze
 I dati sulla città di Firenze messi a disposizione dal Comune
 > [Dataset](https://opendata.comune.fi.it/)
 
